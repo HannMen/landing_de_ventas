@@ -1,0 +1,55 @@
+.main {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+
+.header {
+    background-color: #f8f9fa;
+  }
+    
+.navbar-brand img {
+    height: 50px;
+  }
+  
+
+
+  
+  
+.banner-image img {
+    width: 100%;
+  }
+
+.banner-form {
+    background-color: #f8f9fa;
+    padding: 60px 0;
+
+  }
+  
+
+.cursos {
+    background-color: #f8f9fa;
+    padding-bottom: 20px;
+  }
+  
+
+.video-section {
+  background-color: #f5f5f5;
+  padding: 50px;
+  text-align: center;
+}
+
+.video-wrapper {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+video {
+  width: 100%;
+  height: auto;
+}
+
+
+
+
+
